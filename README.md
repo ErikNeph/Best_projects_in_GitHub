@@ -1,5 +1,5 @@
 # Best_repositories_in_GitHub
-!Data visualization with Plotly , request and API.!
+Data visualization with Plotly , request and API.
 
 Written in Python.
 ![Main](images/Github_best_repositories_main.jpg)
